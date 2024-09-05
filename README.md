@@ -14,20 +14,20 @@ The dataset consisted of three Excel files containing information about the orde
 As there were three books containing different kinds of information, several questions could be asked. I went through each of the books and penned down the following as potential needs that such a business would require:
 
 # Orders Activity
-Revenue by pizza type
-Orders/sales by hour
-Orders by location
-Total orders and sales
-Quantity of items sold
+- Revenue by pizza type
+- Orders/sales by hour
+- Orders by location
+- Total orders and sales
+- Quantity of items sold
 
 # Stock control/ Inventory management
-When to order new stock?
-What ingredients go into making each menu item?
-How much does it cost to make each menu item?
-Existing stock level?
+- When to order new stock?
+- What ingredients go into making each menu item?
+- How much does it cost to make each menu item?
+- Existing stock level?
 
 # Staff Management
-Work times for each staff
-Pay-per-hour
-Total amount of wages being paid
-The total amount of working hours 
+- Work times for each staff
+- Pay-per-hour
+- Total amount of wages being paid
+- The total amount of working hours 
