@@ -1,0 +1,315 @@
+"order_id","cust_id","add_id","item_id","sku","add_id-2","item_price","quantity","item_category","item_name","created_at","delivery_address1","delivery_address2","delivery_city","delivery_zipcode","delivery"
+"109",1,1,"it_001","PIZZ-MARG-R",1,"12.00",2,"Pizza","Pizza Margherita Reg","2022-08-10 13:22:00","607 Trails End Road",NULL,"Manchester","6042",1
+"110",2,2,"it_003","PIZZ-DIAV-R",2,"16.00",1,"Pizza","Pizza Diavola (hot) Reg","2022-08-10 13:53:00","25 Cliffside Drive",NULL,"Manchester","6042",1
+"111",3,3,"it_001","PIZZ-MARG-R",3,"12.00",1,"Pizza","Pizza Margherita Reg","2022-08-10 13:32:00","56 Concord Road",NULL,"Manchester","6042",1
+"111",3,3,"it_003","PIZZ-DIAV-R",3,"16.00",1,"Pizza","Pizza Diavola (hot) Reg","2022-08-10 13:32:00","56 Concord Road",NULL,"Manchester","6042",1
+"112",4,4,"it_008","PIZZ-QUAT-L",4,"19.00",3,"Pizza","Pizza Quattro Formaggi Large","2022-08-10 19:19:00","82 Lookout Mountain Drive",NULL,"Manchester","6040",0
+"112",4,4,"it_019","SIDE-BREA-R",4,"5.00",5,"Side","Breadsticks","2022-08-10 19:19:00","82 Lookout Mountain Drive",NULL,"Manchester","6040",0
+"112",4,4,"it_020","SIDE-CAES-R",4,"7.00",5,"Side","Caesar Salad","2022-08-10 19:19:00","82 Lookout Mountain Drive",NULL,"Manchester","6040",0
+"112",4,4,"it_023","DESS-ICE-STRA",4,"6.00",1,"Dessert","Strawberry Ice cream","2022-08-10 19:19:00","82 Lookout Mountain Drive",NULL,"Manchester","6040",0
+"112",4,4,"it_040","BEVA-SAN-REG33",4,"2.00",1,"Drink","San Pelligrino 33cl","2022-08-10 19:19:00","82 Lookout Mountain Drive",NULL,"Manchester","6040",0
+"113",5,5,"it_008","PIZZ-QUAT-L",5,"19.00",1,"Pizza","Pizza Quattro Formaggi Large","2022-08-10 19:19:00","21 Carver Lane",NULL,"Manchester","6040",1
+"113",5,5,"it_009","PIZZ-NAPO-R",5,"16.00",1,"Pizza","Pizza Napolitana Reg","2022-08-10 20:45:00","21 Carver Lane",NULL,"Manchester","6040",1
+"113",5,5,"it_024","DESS-ICE-PIST",5,"6.00",2,"Dessert","Pistachio Ice cream","2022-08-10 20:45:00","21 Carver Lane",NULL,"Manchester","6040",1
+"113",5,5,"it_022","DESS-ICE-VANI",5,"6.00",1,"Dessert","Chocolate Ice cream","2022-08-10 20:45:00","21 Carver Lane",NULL,"Manchester","6040",1
+"113",5,5,"it_025","DESS-CHOC-BROW",5,"5.00",3,"Dessert","Chocolate Brownie","2022-08-10 20:45:00","21 Carver Lane",NULL,"Manchester","6040",1
+"114",6,6,"it_003","PIZZ-DIAV-R",6,"16.00",1,"Pizza","Pizza Diavola (hot) Reg","2022-08-10 12:05:00","61 Plymouth Lane",NULL,"Manchester","6040",1
+"114",6,6,"it_002","PIZZ-MARG-L",6,"14.00",1,"Pizza","Pizza Margherita Large","2022-08-10 12:05:00","61 Plymouth Lane",NULL,"Manchester","6040",1
+"114",6,6,"it_010","PIZZ-NAPO-L",6,"18.00",1,"Pizza","Pizza Napolitana Large","2022-08-10 12:05:00","61 Plymouth Lane",NULL,"Manchester","6040",1
+"114",6,6,"it_018","SIDE-CHIC-R",6,"7.00",1,"Side","Chicken Wings","2022-08-10 12:05:00","61 Plymouth Lane",NULL,"Manchester","6040",1
+"114",6,6,"it_020","SIDE-CAES-R",6,"7.00",1,"Side","Caesar Salad","2022-08-10 12:05:00","61 Plymouth Lane",NULL,"Manchester","6040",1
+"114",6,6,"it_025","DESS-CHOC-BROW",6,"5.00",1,"Dessert","Chocolate Brownie","2022-08-10 12:05:00","61 Plymouth Lane",NULL,"Manchester","6040",1
+"114",6,6,"it_026","DESS-BANO-PIE",6,"7.00",1,"Dessert","Banoffee Pie","2022-08-10 12:05:00","61 Plymouth Lane",NULL,"Manchester","6040",1
+"114",6,6,"it_021","DESS-ICE-CHOC",6,"6.00",1,"Dessert","Vanilla Ice cream","2022-08-10 12:05:00","61 Plymouth Lane",NULL,"Manchester","6040",1
+"114",6,6,"it_029","BEVA-CC-REG1500",6,"6.00",1,"Drink","Coca Cola Regular 1.5l","2022-08-10 12:05:00","61 Plymouth Lane",NULL,"Manchester","6040",1
+"115",7,7,"it_001","PIZZ-MARG-R",7,"12.00",2,"Pizza","Pizza Margherita Reg","2022-08-10 12:19:00","265 Slater Street",NULL,"Manchester","6042",1
+"115",7,7,"it_003","PIZZ-DIAV-R",7,"16.00",4,"Pizza","Pizza Diavola (hot) Reg","2022-08-10 12:19:00","265 Slater Street",NULL,"Manchester","6042",1
+"115",7,7,"it_005","PIZZ-PARM-R",7,"15.00",2,"Pizza","Pizza Parmigiana Reg","2022-08-10 12:19:00","265 Slater Street",NULL,"Manchester","6042",1
+"115",7,7,"it_026","DESS-BANO-PIE",7,"7.00",3,"Dessert","Banoffee Pie","2022-08-10 12:19:00","265 Slater Street",NULL,"Manchester","6042",1
+"115",7,7,"it_030","BEVA-CC-DIE33",7,"3.00",5,"Drink","Coca Cola Diet 33cl","2022-08-10 12:19:00","265 Slater Street",NULL,"Manchester","6042",1
+"116",8,8,"it_004","PIZZ-DIAV-L",8,"19.00",3,"Pizza","Pizza Diavola (hot) Large","2022-08-10 13:08:00","159 Adams Street",NULL,"Manchester","6040",1
+"116",8,8,"it_012","PIZZ-PEPP-L",8,"17.00",3,"Pizza","Pizza Pepperoni Large","2022-08-10 13:08:00","159 Adams Street",NULL,"Manchester","6040",1
+"116",8,8,"it_010","PIZZ-NAPO-L",8,"18.00",1,"Pizza","Pizza Napolitana Large","2022-08-10 13:08:00","159 Adams Street",NULL,"Manchester","6040",1
+"116",8,8,"it_020","SIDE-CAES-R",8,"7.00",1,"Side","Caesar Salad","2022-08-10 13:08:00","159 Adams Street",NULL,"Manchester","6040",1
+"116",8,8,"it_028","BEVA-CC-REG33",8,"3.00",5,"Drink","Coca Cola Regular 33cl","2022-08-10 13:08:00","159 Adams Street",NULL,"Manchester","6040",1
+"117",9,9,"it_003","PIZZ-DIAV-R",9,"16.00",1,"Pizza","Pizza Diavola (hot) Reg","2022-08-10 20:24:00","66 Pine Street",NULL,"Manchester","6040",0
+"117",9,9,"it_008","PIZZ-QUAT-L",9,"19.00",2,"Pizza","Pizza Quattro Formaggi Large","2022-08-10 20:24:00","66 Pine Street",NULL,"Manchester","6040",0
+"117",9,9,"it_018","SIDE-CHIC-R",9,"7.00",2,"Side","Chicken Wings","2022-08-10 20:24:00","66 Pine Street",NULL,"Manchester","6040",0
+"117",9,9,"it_023","DESS-ICE-STRA",9,"6.00",1,"Dessert","Strawberry Ice cream","2022-08-10 20:24:00","66 Pine Street",NULL,"Manchester","6040",0
+"118",10,10,"it_001","PIZZ-MARG-R",10,"12.00",3,"Pizza","Pizza Margherita Reg","2022-08-10 19:48:00","18 Cambridge Street",NULL,"Manchester","6042",1
+"118",10,10,"it_003","PIZZ-DIAV-R",10,"16.00",2,"Pizza","Pizza Diavola (hot) Reg","2022-08-10 19:48:00","18 Cambridge Street",NULL,"Manchester","6042",1
+"118",10,10,"it_008","PIZZ-QUAT-L",10,"19.00",4,"Pizza","Pizza Quattro Formaggi Large","2022-08-10 19:48:00","18 Cambridge Street",NULL,"Manchester","6042",1
+"118",10,10,"it_012","PIZZ-PEPP-L",10,"17.00",2,"Pizza","Pizza Pepperoni Large","2022-08-10 19:48:00","18 Cambridge Street",NULL,"Manchester","6042",1
+"118",10,10,"it_013","PIZZ-SEAF-R",10,"17.00",1,"Pizza","Pizza Seafood Reg","2022-08-10 19:48:00","18 Cambridge Street",NULL,"Manchester","6042",1
+"118",10,10,"it_010","PIZZ-NAPO-L",10,"18.00",1,"Pizza","Pizza Napolitana Large","2022-08-10 19:48:00","18 Cambridge Street",NULL,"Manchester","6042",1
+"118",10,10,"it_005","PIZZ-PARM-R",10,"15.00",5,"Pizza","Pizza Parmigiana Reg","2022-08-10 19:48:00","18 Cambridge Street",NULL,"Manchester","6042",1
+"118",10,10,"it_017","SIDE-GARL-R",10,"6.00",4,"Side","Garlic Bread","2022-08-10 19:48:00","18 Cambridge Street",NULL,"Manchester","6042",1
+"118",10,10,"it_020","SIDE-CAES-R",10,"7.00",4,"Side","Caesar Salad","2022-08-10 19:48:00","18 Cambridge Street",NULL,"Manchester","6042",1
+"118",10,10,"it_027","DESS-FRUI-SALA",10,"5.00",10,"Dessert","Fruit Salad","2022-08-10 19:48:00","18 Cambridge Street",NULL,"Manchester","6042",1
+"118",10,10,"it_026","DESS-BANO-PIE",10,"7.00",5,"Dessert","Banoffee Pie","2022-08-10 19:48:00","18 Cambridge Street",NULL,"Manchester","6042",1
+"118",10,10,"it_043","BEVA-PER-REG1500",10,"4.00",10,"Drink","Perrier 1.5l","2022-08-10 19:48:00","18 Cambridge Street",NULL,"Manchester","6042",1
+"119",11,11,"it_013","PIZZ-SEAF-R",11,"17.00",1,"Pizza","Pizza Seafood Reg","2022-08-10 22:05:00","310 Timrod Road",NULL,"Manchester","6040",1
+"119",11,11,"it_004","PIZZ-DIAV-L",11,"19.00",1,"Pizza","Pizza Diavola (hot) Large","2022-08-10 22:05:00","310 Timrod Road",NULL,"Manchester","6040",1
+"119",11,11,"it_010","PIZZ-NAPO-L",11,"18.00",1,"Pizza","Pizza Napolitana Large","2022-08-10 22:05:00","310 Timrod Road",NULL,"Manchester","6040",1
+"119",11,11,"it_024","DESS-ICE-PIST",11,"6.00",2,"Dessert","Pistachio Ice cream","2022-08-10 22:05:00","310 Timrod Road",NULL,"Manchester","6040",1
+"119",11,11,"it_028","BEVA-CC-REG33",11,"3.00",3,"Drink","Coca Cola Regular 33cl","2022-08-10 22:05:00","310 Timrod Road",NULL,"Manchester","6040",1
+"120",12,12,"it_033","BEVA-7U-REG1500",12,"6.00",1,"Drink","Sprite Regular 1.5l","2022-08-10 14:20:00","44 Downey Drive",NULL,"Manchester","6040",0
+"120",12,12,"it_036","BEVA-FAN-REG33",12,"3.00",1,"Drink","Fanta Regular 33cl","2022-08-10 14:20:00","44 Downey Drive",NULL,"Manchester","6040",0
+"120",12,12,"it_026","DESS-BANO-PIE",12,"7.00",1,"Dessert","Banoffee Pie","2022-08-10 14:20:00","44 Downey Drive",NULL,"Manchester","6040",0
+"120",12,12,"it_022","DESS-ICE-VANI",12,"6.00",2,"Dessert","Chocolate Ice cream","2022-08-10 14:20:00","44 Downey Drive",NULL,"Manchester","6040",0
+"120",12,12,"it_019","SIDE-BREA-R",12,"5.00",1,"Side","Breadsticks","2022-08-10 14:20:00","44 Downey Drive",NULL,"Manchester","6040",0
+"120",12,12,"it_018","SIDE-CHIC-R",12,"7.00",1,"Side","Chicken Wings","2022-08-10 14:20:00","44 Downey Drive",NULL,"Manchester","6040",0
+"120",12,12,"it_004","PIZZ-DIAV-L",12,"19.00",1,"Pizza","Pizza Diavola (hot) Large","2022-08-10 14:20:00","44 Downey Drive",NULL,"Manchester","6040",0
+"121",13,13,"it_004","PIZZ-DIAV-L",13,"19.00",2,"Pizza","Pizza Diavola (hot) Large","2022-08-10 12:05:00","31 Buckland Hills Drive",NULL,"Manchester","6042",1
+"121",13,13,"it_009","PIZZ-NAPO-R",13,"16.00",4,"Pizza","Pizza Napolitana Reg","2022-08-10 12:05:00","31 Buckland Hills Drive",NULL,"Manchester","6042",1
+"121",13,13,"it_019","SIDE-BREA-R",13,"5.00",1,"Side","Breadsticks","2022-08-10 12:05:00","31 Buckland Hills Drive",NULL,"Manchester","6042",1
+"121",13,13,"it_033","BEVA-7U-REG1500",13,"6.00",1,"Drink","Sprite Regular 1.5l","2022-08-10 12:05:00","31 Buckland Hills Drive",NULL,"Manchester","6042",1
+"122",14,14,"it_012","PIZZ-PEPP-L",14,"17.00",1,"Pizza","Pizza Pepperoni Large","2022-08-10 18:34:00","194 Buckland Hills Drive",NULL,"Manchester","6042",1
+"122",14,14,"it_020","SIDE-CAES-R",14,"7.00",2,"Side","Caesar Salad","2022-08-10 18:34:00","194 Buckland Hills Drive",NULL,"Manchester","6042",1
+"122",14,14,"it_025","DESS-CHOC-BROW",14,"5.00",1,"Dessert","Chocolate Brownie","2022-08-10 18:34:00","194 Buckland Hills Drive",NULL,"Manchester","6042",1
+"122",14,14,"it_037","BEVA-FAN-REG1500",14,"6.00",2,"Drink","Fanta Regular 1.5l","2022-08-10 18:34:00","194 Buckland Hills Drive",NULL,"Manchester","6042",1
+"123",15,15,"it_007","PIZZ-QUAT-R",15,"16.00",1,"Pizza","Pizza Quattro Formaggi Reg","2022-08-10 18:43:00","29 Lucian Street",NULL,"Manchester","6040",1
+"123",15,15,"it_012","PIZZ-PEPP-L",15,"17.00",5,"Pizza","Pizza Pepperoni Large","2022-08-10 18:43:00","29 Lucian Street",NULL,"Manchester","6040",1
+"123",15,15,"it_009","PIZZ-NAPO-R",15,"16.00",2,"Pizza","Pizza Napolitana Reg","2022-08-10 18:43:00","29 Lucian Street",NULL,"Manchester","6040",1
+"123",15,15,"it_019","SIDE-BREA-R",15,"5.00",2,"Side","Breadsticks","2022-08-10 18:43:00","29 Lucian Street",NULL,"Manchester","6040",1
+"123",15,15,"it_022","DESS-ICE-VANI",15,"6.00",12,"Dessert","Chocolate Ice cream","2022-08-10 18:43:00","29 Lucian Street",NULL,"Manchester","6040",1
+"123",15,15,"it_041","BEVA-SAN-REG1500",15,"4.00",2,"Drink","San Pelligrino 1.5l","2022-08-10 18:43:00","29 Lucian Street",NULL,"Manchester","6040",1
+"123",15,15,"it_036","BEVA-FAN-REG33",15,"3.00",22,"Drink","Fanta Regular 33cl","2022-08-10 18:43:00","29 Lucian Street",NULL,"Manchester","6040",1
+"123",15,15,"it_033","BEVA-7U-REG1500",15,"6.00",2,"Drink","Sprite Regular 1.5l","2022-08-10 18:43:00","29 Lucian Street",NULL,"Manchester","6040",1
+"124",16,16,"it_014","PIZZ-SEAF-L",16,"20.00",1,"Pizza","Pizza Seafood Large","2022-08-10 20:01:00","138 Bolton Street",NULL,"Manchester","6040",1
+"124",16,16,"it_019","SIDE-BREA-R",16,"5.00",2,"Side","Breadsticks","2022-08-10 20:01:00","138 Bolton Street",NULL,"Manchester","6040",1
+"124",16,16,"it_020","SIDE-CAES-R",16,"7.00",2,"Side","Caesar Salad","2022-08-10 20:01:00","138 Bolton Street",NULL,"Manchester","6040",1
+"125",17,17,"it_041","BEVA-SAN-REG1500",17,"4.00",1,"Drink","San Pelligrino 1.5l","2022-08-10 13:08:00","60 Desousa Drive",NULL,"Manchester","6040",1
+"125",17,17,"it_008","PIZZ-QUAT-L",17,"19.00",1,"Pizza","Pizza Quattro Formaggi Large","2022-08-10 13:08:00","60 Desousa Drive",NULL,"Manchester","6040",1
+"125",17,17,"it_009","PIZZ-NAPO-R",17,"16.00",2,"Pizza","Pizza Napolitana Reg","2022-08-10 13:08:00","60 Desousa Drive",NULL,"Manchester","6040",1
+"125",17,17,"it_019","SIDE-BREA-R",17,"5.00",2,"Side","Breadsticks","2022-08-10 13:08:00","60 Desousa Drive",NULL,"Manchester","6040",1
+"125",17,17,"it_018","SIDE-CHIC-R",17,"7.00",2,"Side","Chicken Wings","2022-08-10 13:08:00","60 Desousa Drive",NULL,"Manchester","6040",1
+"125",17,17,"it_020","SIDE-CAES-R",17,"7.00",3,"Side","Caesar Salad","2022-08-10 13:08:00","60 Desousa Drive",NULL,"Manchester","6040",1
+"125",17,17,"it_026","DESS-BANO-PIE",17,"7.00",4,"Dessert","Banoffee Pie","2022-08-10 13:08:00","60 Desousa Drive",NULL,"Manchester","6040",1
+"125",17,17,"it_030","BEVA-CC-DIE33",17,"3.00",1,"Drink","Coca Cola Diet 33cl","2022-08-10 13:08:00","60 Desousa Drive",NULL,"Manchester","6040",1
+"125",17,17,"it_028","BEVA-CC-REG33",17,"3.00",2,"Drink","Coca Cola Regular 33cl","2022-08-10 13:08:00","60 Desousa Drive",NULL,"Manchester","6040",1
+"126",18,18,"it_004","PIZZ-DIAV-L",18,"19.00",1,"Pizza","Pizza Diavola (hot) Large","2022-08-10 12:46:00","4 Orchard Street",NULL,"Manchester","6040",0
+"126",18,18,"it_018","SIDE-CHIC-R",18,"7.00",1,"Side","Chicken Wings","2022-08-10 12:46:00","4 Orchard Street",NULL,"Manchester","6040",0
+"126",18,18,"it_019","SIDE-BREA-R",18,"5.00",1,"Side","Breadsticks","2022-08-10 12:46:00","4 Orchard Street",NULL,"Manchester","6040",0
+"126",18,18,"it_025","DESS-CHOC-BROW",18,"5.00",1,"Dessert","Chocolate Brownie","2022-08-10 12:46:00","4 Orchard Street",NULL,"Manchester","6040",0
+"126",18,18,"it_029","BEVA-CC-REG1500",18,"6.00",1,"Drink","Coca Cola Regular 1.5l","2022-08-10 12:46:00","4 Orchard Street",NULL,"Manchester","6040",0
+"127",19,19,"it_008","PIZZ-QUAT-L",19,"19.00",1,"Pizza","Pizza Quattro Formaggi Large","2022-08-10 13:35:00","117 Adelaide Road",NULL,"Manchester","6040",1
+"127",19,19,"it_019","SIDE-BREA-R",19,"5.00",1,"Side","Breadsticks","2022-08-10 13:35:00","117 Adelaide Road",NULL,"Manchester","6040",1
+"127",19,19,"it_026","DESS-BANO-PIE",19,"7.00",1,"Dessert","Banoffee Pie","2022-08-10 13:35:00","117 Adelaide Road",NULL,"Manchester","6040",1
+"127",19,19,"it_040","BEVA-SAN-REG33",19,"2.00",1,"Drink","San Pelligrino 33cl","2022-08-10 13:35:00","117 Adelaide Road",NULL,"Manchester","6040",1
+"127",19,19,"it_042","BEVA-PER-REG33",19,"2.00",1,"Drink","Perrier 33cl","2022-08-10 13:35:00","117 Adelaide Road",NULL,"Manchester","6040",1
+"128",20,20,"it_003","PIZZ-DIAV-R",20,"16.00",1,"Pizza","Pizza Diavola (hot) Reg","2022-08-10 21:28:00","236 Middle Turnpike East",NULL,"Manchester","6040",1
+"128",20,20,"it_018","SIDE-CHIC-R",20,"7.00",1,"Side","Chicken Wings","2022-08-10 21:28:00","236 Middle Turnpike East",NULL,"Manchester","6040",1
+"128",20,20,"it_036","BEVA-FAN-REG33",20,"3.00",1,"Drink","Fanta Regular 33cl","2022-08-10 21:28:00","236 Middle Turnpike East",NULL,"Manchester","6040",1
+"128",20,20,"it_012","PIZZ-PEPP-L",20,"17.00",1,"Pizza","Pizza Pepperoni Large","2022-08-10 21:28:00","236 Middle Turnpike East",NULL,"Manchester","6040",1
+"129",21,21,"it_008","PIZZ-QUAT-L",21,"19.00",1,"Pizza","Pizza Quattro Formaggi Large","2022-08-10 19:42:00","736 Middle Turnpike East",NULL,"Manchester","6040",1
+"129",21,21,"it_015","PIZZ-HAWA-R",21,"15.00",1,"Pizza","Pizza Hawaiian Reg","2022-08-10 19:42:00","736 Middle Turnpike East",NULL,"Manchester","6040",1
+"129",21,21,"it_026","DESS-BANO-PIE",21,"7.00",1,"Dessert","Banoffee Pie","2022-08-10 19:42:00","736 Middle Turnpike East",NULL,"Manchester","6040",1
+"129",21,21,"it_036","BEVA-FAN-REG33",21,"3.00",2,"Drink","Fanta Regular 33cl","2022-08-10 19:42:00","736 Middle Turnpike East",NULL,"Manchester","6040",1
+"130",22,22,"it_001","PIZZ-MARG-R",22,"12.00",1,"Pizza","Pizza Margherita Reg","2022-08-10 19:51:00","95 Briarwood Drive",NULL,"Manchester","6040",1
+"130",22,22,"it_003","PIZZ-DIAV-R",22,"16.00",1,"Pizza","Pizza Diavola (hot) Reg","2022-08-10 19:51:00","95 Briarwood Drive",NULL,"Manchester","6040",1
+"130",22,22,"it_006","PIZZ-PARM-L",22,"18.00",1,"Pizza","Pizza Parmigiana Large","2022-08-10 19:51:00","95 Briarwood Drive",NULL,"Manchester","6040",1
+"130",22,22,"it_020","SIDE-CAES-R",22,"7.00",1,"Side","Caesar Salad","2022-08-10 19:51:00","95 Briarwood Drive",NULL,"Manchester","6040",1
+"130",22,22,"it_021","DESS-ICE-CHOC",22,"6.00",1,"Dessert","Vanilla Ice cream","2022-08-10 19:51:00","95 Briarwood Drive",NULL,"Manchester","6040",1
+"130",22,22,"it_023","DESS-ICE-STRA",22,"6.00",1,"Dessert","Strawberry Ice cream","2022-08-10 19:51:00","95 Briarwood Drive",NULL,"Manchester","6040",1
+"130",22,22,"it_040","BEVA-SAN-REG33",22,"2.00",2,"Drink","San Pelligrino 33cl","2022-08-10 19:51:00","95 Briarwood Drive",NULL,"Manchester","6040",1
+"130",22,22,"it_030","BEVA-CC-DIE33",22,"3.00",1,"Drink","Coca Cola Diet 33cl","2022-08-10 19:51:00","95 Briarwood Drive",NULL,"Manchester","6040",1
+"130",22,22,"it_032","BEVA-7U-REG33",22,"3.00",1,"Drink","Sprite Regular 33cl","2022-08-10 19:51:00","95 Briarwood Drive",NULL,"Manchester","6040",1
+"131",23,23,"it_004","PIZZ-DIAV-L",23,"19.00",1,"Pizza","Pizza Diavola (hot) Large","2022-08-10 13:51:00","65 Arcellia Drive",NULL,"Manchester","6042",1
+"131",23,23,"it_016","PIZZ-HAWA-L",23,"17.00",1,"Pizza","Pizza Hawaiian Large","2022-08-10 13:51:00","65 Arcellia Drive",NULL,"Manchester","6042",1
+"131",23,23,"it_018","SIDE-CHIC-R",23,"7.00",1,"Side","Chicken Wings","2022-08-10 13:51:00","65 Arcellia Drive",NULL,"Manchester","6042",1
+"131",23,23,"it_025","DESS-CHOC-BROW",23,"5.00",1,"Dessert","Chocolate Brownie","2022-08-10 13:51:00","65 Arcellia Drive",NULL,"Manchester","6042",1
+"131",23,23,"it_026","DESS-BANO-PIE",23,"7.00",1,"Dessert","Banoffee Pie","2022-08-10 13:51:00","65 Arcellia Drive",NULL,"Manchester","6042",1
+"131",23,23,"it_037","BEVA-FAN-REG1500",23,"6.00",1,"Drink","Fanta Regular 1.5l","2022-08-10 13:51:00","65 Arcellia Drive",NULL,"Manchester","6042",1
+"132",24,24,"it_001","PIZZ-MARG-R",24,"12.00",1,"Pizza","Pizza Margherita Reg","2022-08-10 13:31:00","25 Edwards Street",NULL,"Manchester","6042",1
+"132",24,24,"it_008","PIZZ-QUAT-L",24,"19.00",1,"Pizza","Pizza Quattro Formaggi Large","2022-08-10 13:31:00","25 Edwards Street",NULL,"Manchester","6042",1
+"132",24,24,"it_012","PIZZ-PEPP-L",24,"17.00",1,"Pizza","Pizza Pepperoni Large","2022-08-10 13:31:00","25 Edwards Street",NULL,"Manchester","6042",1
+"132",24,24,"it_025","DESS-CHOC-BROW",24,"5.00",1,"Dessert","Chocolate Brownie","2022-08-10 13:31:00","25 Edwards Street",NULL,"Manchester","6042",1
+"132",24,24,"it_042","BEVA-PER-REG33",24,"2.00",2,"Drink","Perrier 33cl","2022-08-10 13:31:00","25 Edwards Street",NULL,"Manchester","6042",1
+"133",25,25,"it_003","PIZZ-DIAV-R",25,"16.00",1,"Pizza","Pizza Diavola (hot) Reg","2022-08-10 20:36:00","115 Waddell Road",NULL,"Manchester","6040",1
+"134",26,26,"it_004","PIZZ-DIAV-L",26,"19.00",2,"Pizza","Pizza Diavola (hot) Large","2022-08-10 19:11:00","425 Middle Turnpike East",NULL,"Manchester","6040",1
+"134",26,26,"it_007","PIZZ-QUAT-R",26,"16.00",1,"Pizza","Pizza Quattro Formaggi Reg","2022-08-10 19:11:00","425 Middle Turnpike East",NULL,"Manchester","6040",0
+"134",26,26,"it_011","PIZZ-PEPP-R",26,"15.00",5,"Pizza","Pizza Pepperoni Reg","2022-08-10 19:11:00","425 Middle Turnpike East",NULL,"Manchester","6040",0
+"134",26,26,"it_019","SIDE-BREA-R",26,"5.00",5,"Side","Breadsticks","2022-08-10 19:11:00","425 Middle Turnpike East",NULL,"Manchester","6040",0
+"134",26,26,"it_025","DESS-CHOC-BROW",26,"5.00",10,"Dessert","Chocolate Brownie","2022-08-10 19:11:00","425 Middle Turnpike East",NULL,"Manchester","6040",0
+"134",26,26,"it_026","DESS-BANO-PIE",26,"7.00",5,"Dessert","Banoffee Pie","2022-08-10 19:11:00","425 Middle Turnpike East",NULL,"Manchester","6040",0
+"134",26,26,"it_027","DESS-FRUI-SALA",26,"5.00",5,"Dessert","Fruit Salad","2022-08-10 19:11:00","425 Middle Turnpike East",NULL,"Manchester","6040",0
+"134",26,26,"it_022","DESS-ICE-VANI",26,"6.00",20,"Dessert","Chocolate Ice cream","2022-08-10 19:11:00","425 Middle Turnpike East",NULL,"Manchester","6040",0
+"134",26,26,"it_041","BEVA-SAN-REG1500",26,"4.00",1,"Drink","San Pelligrino 1.5l","2022-08-10 19:11:00","425 Middle Turnpike East",NULL,"Manchester","6040",0
+"135",27,27,"it_004","PIZZ-DIAV-L",27,"19.00",3,"Pizza","Pizza Diavola (hot) Large","2022-08-10 13:29:00","13 Riverview Avenue",NULL,"Groton","6340",1
+"135",27,27,"it_019","SIDE-BREA-R",27,"5.00",2,"Side","Breadsticks","2022-08-10 13:29:00","13 Riverview Avenue",NULL,"Groton","6340",1
+"135",27,27,"it_018","SIDE-CHIC-R",27,"7.00",3,"Side","Chicken Wings","2022-08-10 13:29:00","13 Riverview Avenue",NULL,"Groton","6340",1
+"135",27,27,"it_020","SIDE-CAES-R",27,"7.00",2,"Side","Caesar Salad","2022-08-10 13:29:00","13 Riverview Avenue",NULL,"Groton","6340",1
+"136",28,28,"it_029","BEVA-CC-REG1500",28,"6.00",2,"Drink","Coca Cola Regular 1.5l","2022-08-10 18:58:00","46 Lilac Street",NULL,"Manchester","6040",1
+"136",28,28,"it_004","PIZZ-DIAV-L",28,"19.00",2,"Pizza","Pizza Diavola (hot) Large","2022-08-10 18:58:00","46 Lilac Street",NULL,"Manchester","6040",1
+"136",28,28,"it_025","DESS-CHOC-BROW",28,"5.00",4,"Dessert","Chocolate Brownie","2022-08-10 18:58:00","46 Lilac Street",NULL,"Manchester","6040",1
+"137",29,29,"it_003","PIZZ-DIAV-R",29,"16.00",1,"Pizza","Pizza Diavola (hot) Reg","2022-08-10 13:14:00","16 Ambassador Drive",NULL,"Manchester","6042",0
+"137",29,29,"it_011","PIZZ-PEPP-R",29,"15.00",1,"Pizza","Pizza Pepperoni Reg","2022-08-10 13:14:00","16 Ambassador Drive",NULL,"Manchester","6042",0
+"137",29,29,"it_017","SIDE-GARL-R",29,"6.00",1,"Side","Garlic Bread","2022-08-10 13:14:00","16 Ambassador Drive",NULL,"Manchester","6042",0
+"137",29,29,"it_036","BEVA-FAN-REG33",29,"3.00",2,"Drink","Fanta Regular 33cl","2022-08-10 13:14:00","16 Ambassador Drive",NULL,"Manchester","6042",0
+"138",30,30,"it_019","SIDE-BREA-R",30,"5.00",1,"Side","Breadsticks","2022-08-10 13:12:00","119 Redwood Road",NULL,"Manchester","6040",1
+"138",30,30,"it_018","SIDE-CHIC-R",30,"7.00",2,"Side","Chicken Wings","2022-08-10 13:12:00","119 Redwood Road",NULL,"Manchester","6040",1
+"138",30,30,"it_025","DESS-CHOC-BROW",30,"5.00",1,"Dessert","Chocolate Brownie","2022-08-10 13:12:00","119 Redwood Road",NULL,"Manchester","6040",1
+"138",30,30,"it_017","SIDE-GARL-R",30,"6.00",1,"Side","Garlic Bread","2022-08-10 13:12:00","119 Redwood Road",NULL,"Manchester","6040",1
+"139",31,31,"it_001","PIZZ-MARG-R",31,"12.00",1,"Pizza","Pizza Margherita Reg","2022-08-10 19:19:00","697 Parker Street",NULL,"Manchester","6042",1
+"139",31,31,"it_003","PIZZ-DIAV-R",31,"16.00",1,"Pizza","Pizza Diavola (hot) Reg","2022-08-10 19:19:00","697 Parker Street",NULL,"Manchester","6042",1
+"139",31,31,"it_008","PIZZ-QUAT-L",31,"19.00",1,"Pizza","Pizza Quattro Formaggi Large","2022-08-10 19:19:00","697 Parker Street",NULL,"Manchester","6042",1
+"139",31,31,"it_010","PIZZ-NAPO-L",31,"18.00",1,"Pizza","Pizza Napolitana Large","2022-08-10 19:19:00","697 Parker Street",NULL,"Manchester","6042",1
+"139",31,31,"it_014","PIZZ-SEAF-L",31,"20.00",1,"Pizza","Pizza Seafood Large","2022-08-10 19:19:00","697 Parker Street",NULL,"Manchester","6042",1
+"139",31,31,"it_017","SIDE-GARL-R",31,"6.00",1,"Side","Garlic Bread","2022-08-10 19:19:00","697 Parker Street",NULL,"Manchester","6042",1
+"139",31,31,"it_018","SIDE-CHIC-R",31,"7.00",6,"Side","Chicken Wings","2022-08-10 19:19:00","697 Parker Street",NULL,"Manchester","6042",1
+"139",31,31,"it_019","SIDE-BREA-R",31,"5.00",9,"Side","Breadsticks","2022-08-10 19:19:00","697 Parker Street",NULL,"Manchester","6042",1
+"139",31,31,"it_020","SIDE-CAES-R",31,"7.00",1,"Side","Caesar Salad","2022-08-10 19:19:00","697 Parker Street",NULL,"Manchester","6042",1
+"140",32,32,"it_018","SIDE-CHIC-R",32,"7.00",2,"Side","Chicken Wings","2022-08-10 13:32:00","207 Spruce Street",NULL,"Manchester","6040",1
+"140",32,32,"it_016","PIZZ-HAWA-L",32,"17.00",1,"Pizza","Pizza Hawaiian Large","2022-08-10 13:32:00","207 Spruce Street",NULL,"Manchester","6040",1
+"140",32,32,"it_025","DESS-CHOC-BROW",32,"5.00",1,"Dessert","Chocolate Brownie","2022-08-10 13:32:00","207 Spruce Street",NULL,"Manchester","6040",1
+"140",32,32,"it_029","BEVA-CC-REG1500",32,"6.00",1,"Drink","Coca Cola Regular 1.5l","2022-08-10 13:32:00","207 Spruce Street",NULL,"Manchester","6040",1
+"141",33,33,"it_026","DESS-BANO-PIE",33,"7.00",1,"Dessert","Banoffee Pie","2022-08-10 21:20:00","34 Holyoke Road",NULL,"Manchester","6040",0
+"141",33,33,"it_025","DESS-CHOC-BROW",33,"5.00",1,"Dessert","Chocolate Brownie","2022-08-10 21:20:00","34 Holyoke Road",NULL,"Manchester","6040",0
+"141",33,33,"it_006","PIZZ-PARM-L",33,"18.00",1,"Pizza","Pizza Parmigiana Large","2022-08-10 21:20:00","34 Holyoke Road",NULL,"Manchester","6040",0
+"141",33,33,"it_009","PIZZ-NAPO-R",33,"16.00",1,"Pizza","Pizza Napolitana Reg","2022-08-10 21:20:00","34 Holyoke Road",NULL,"Manchester","6040",0
+"141",33,33,"it_008","PIZZ-QUAT-L",33,"19.00",1,"Pizza","Pizza Quattro Formaggi Large","2022-08-10 21:20:00","34 Holyoke Road",NULL,"Manchester","6040",0
+"142",34,34,"it_001","PIZZ-MARG-R",34,"12.00",3,"Pizza","Pizza Margherita Reg","2022-08-10 22:02:00","175 Oak Street",NULL,"Manchester","6040",1
+"142",34,34,"it_019","SIDE-BREA-R",34,"5.00",3,"Side","Breadsticks","2022-08-10 22:02:00","175 Oak Street",NULL,"Manchester","6040",1
+"142",34,34,"it_023","DESS-ICE-STRA",34,"6.00",3,"Dessert","Strawberry Ice cream","2022-08-10 22:02:00","175 Oak Street",NULL,"Manchester","6040",1
+"142",34,34,"it_033","BEVA-7U-REG1500",34,"6.00",3,"Drink","Sprite Regular 1.5l","2022-08-10 22:02:00","175 Oak Street",NULL,"Manchester","6040",1
+"143",35,35,"it_001","PIZZ-MARG-R",35,"12.00",1,"Pizza","Pizza Margherita Reg","2022-08-10 19:02:00","126 Marjorie Lane",NULL,"Manchester","6042",0
+"143",35,35,"it_003","PIZZ-DIAV-R",35,"16.00",1,"Pizza","Pizza Diavola (hot) Reg","2022-08-10 19:02:00","126 Marjorie Lane",NULL,"Manchester","6042",0
+"143",35,35,"it_019","SIDE-BREA-R",35,"5.00",1,"Side","Breadsticks","2022-08-10 19:02:00","126 Marjorie Lane",NULL,"Manchester","6042",0
+"143",35,35,"it_026","DESS-BANO-PIE",35,"7.00",1,"Dessert","Banoffee Pie","2022-08-10 19:02:00","126 Marjorie Lane",NULL,"Manchester","6042",0
+"144",36,36,"it_004","PIZZ-DIAV-L",36,"19.00",1,"Pizza","Pizza Diavola (hot) Large","2022-08-10 19:44:00","22 Star Farms Drive",NULL,"Manchester","6040",1
+"144",36,36,"it_007","PIZZ-QUAT-R",36,"16.00",1,"Pizza","Pizza Quattro Formaggi Reg","2022-08-10 19:44:00","22 Star Farms Drive",NULL,"Manchester","6040",1
+"144",36,36,"it_027","DESS-FRUI-SALA",36,"5.00",1,"Dessert","Fruit Salad","2022-08-10 19:44:00","22 Star Farms Drive",NULL,"Manchester","6040",1
+"144",36,36,"it_021","DESS-ICE-CHOC",36,"6.00",1,"Dessert","Vanilla Ice cream","2022-08-10 19:44:00","22 Star Farms Drive",NULL,"Manchester","6040",1
+"144",36,36,"it_032","BEVA-7U-REG33",36,"3.00",1,"Drink","Sprite Regular 33cl","2022-08-10 19:44:00","22 Star Farms Drive",NULL,"Manchester","6040",1
+"144",36,36,"it_028","BEVA-CC-REG33",36,"3.00",1,"Drink","Coca Cola Regular 33cl","2022-08-10 19:44:00","22 Star Farms Drive",NULL,"Manchester","6040",1
+"145",37,37,"it_004","PIZZ-DIAV-L",37,"19.00",1,"Pizza","Pizza Diavola (hot) Large","2022-08-10 20:04:00","89 High Ledge Circle",NULL,"Manchester","6040",1
+"145",37,37,"it_013","PIZZ-SEAF-R",37,"17.00",2,"Pizza","Pizza Seafood Reg","2022-08-10 20:04:00","89 High Ledge Circle",NULL,"Manchester","6040",1
+"145",37,37,"it_006","PIZZ-PARM-L",37,"18.00",1,"Pizza","Pizza Parmigiana Large","2022-08-10 20:04:00","89 High Ledge Circle",NULL,"Manchester","6040",1
+"145",37,37,"it_018","SIDE-CHIC-R",37,"7.00",3,"Side","Chicken Wings","2022-08-10 20:04:00","89 High Ledge Circle",NULL,"Manchester","6040",1
+"145",37,37,"it_020","SIDE-CAES-R",37,"7.00",2,"Side","Caesar Salad","2022-08-10 20:04:00","89 High Ledge Circle",NULL,"Manchester","6040",1
+"145",37,37,"it_027","DESS-FRUI-SALA",37,"5.00",2,"Dessert","Fruit Salad","2022-08-10 20:04:00","89 High Ledge Circle",NULL,"Manchester","6040",1
+"145",37,37,"it_041","BEVA-SAN-REG1500",37,"4.00",1,"Drink","San Pelligrino 1.5l","2022-08-10 20:04:00","89 High Ledge Circle",NULL,"Manchester","6040",1
+"146",38,38,"it_005","PIZZ-PARM-R",38,"15.00",1,"Pizza","Pizza Parmigiana Reg","2022-08-10 20:34:00","126 Garth Road",NULL,"Manchester","6040",1
+"146",38,38,"it_007","PIZZ-QUAT-R",38,"16.00",1,"Pizza","Pizza Quattro Formaggi Reg","2022-08-10 20:34:00","126 Garth Road",NULL,"Manchester","6040",1
+"146",38,38,"it_004","PIZZ-DIAV-L",38,"19.00",1,"Pizza","Pizza Diavola (hot) Large","2022-08-10 20:34:00","126 Garth Road",NULL,"Manchester","6040",1
+"146",38,38,"it_026","DESS-BANO-PIE",38,"7.00",2,"Dessert","Banoffee Pie","2022-08-10 20:34:00","126 Garth Road",NULL,"Manchester","6040",1
+"146",38,38,"it_034","BEVA-7U-DIE33",38,"3.00",1,"Drink","Sprite Diet 33cl","2022-08-10 20:34:00","126 Garth Road",NULL,"Manchester","6040",1
+"146",38,38,"it_030","BEVA-CC-DIE33",38,"3.00",1,"Drink","Coca Cola Diet 33cl","2022-08-10 20:34:00","126 Garth Road",NULL,"Manchester","6040",1
+"147",39,39,"it_039","BEVA-FAN-DIE1500",39,"6.00",1,"Drink","Fanta Diet 1.5l","2022-08-10 13:24:00","44 Colonial Road",NULL,"Manchester","6042",1
+"147",39,39,"it_025","DESS-CHOC-BROW",39,"5.00",2,"Dessert","Chocolate Brownie","2022-08-10 13:24:00","44 Colonial Road",NULL,"Manchester","6042",1
+"147",39,39,"it_009","PIZZ-NAPO-R",39,"16.00",2,"Pizza","Pizza Napolitana Reg","2022-08-10 13:24:00","44 Colonial Road",NULL,"Manchester","6042",1
+"148",40,40,"it_004","PIZZ-DIAV-L",40,"19.00",2,"Pizza","Pizza Diavola (hot) Large","2022-08-10 19:44:00","31 Ashworth Street",NULL,"Manchester","6040",1
+"148",40,40,"it_001","PIZZ-MARG-R",40,"12.00",1,"Pizza","Pizza Margherita Reg","2022-08-10 19:44:00","31 Ashworth Street",NULL,"Manchester","6040",1
+"148",40,40,"it_003","PIZZ-DIAV-R",40,"16.00",3,"Pizza","Pizza Diavola (hot) Reg","2022-08-10 19:44:00","31 Ashworth Street",NULL,"Manchester","6040",1
+"149",41,41,"it_012","PIZZ-PEPP-L",41,"17.00",1,"Pizza","Pizza Pepperoni Large","2022-08-10 21:02:00","145 Saint John Street",NULL,"Manchester","6040",0
+"149",41,41,"it_004","PIZZ-DIAV-L",41,"19.00",1,"Pizza","Pizza Diavola (hot) Large","2022-08-10 21:02:00","145 Saint John Street",NULL,"Manchester","6040",0
+"149",41,41,"it_020","SIDE-CAES-R",41,"7.00",1,"Side","Caesar Salad","2022-08-10 21:02:00","145 Saint John Street",NULL,"Manchester","6040",0
+"149",41,41,"it_017","SIDE-GARL-R",41,"6.00",1,"Side","Garlic Bread","2022-08-10 21:02:00","145 Saint John Street",NULL,"Manchester","6040",0
+"149",41,41,"it_026","DESS-BANO-PIE",41,"7.00",1,"Dessert","Banoffee Pie","2022-08-10 21:02:00","145 Saint John Street",NULL,"Manchester","6040",0
+"149",41,41,"it_025","DESS-CHOC-BROW",41,"5.00",1,"Dessert","Chocolate Brownie","2022-08-10 21:02:00","145 Saint John Street",NULL,"Manchester","6040",0
+"149",41,41,"it_039","BEVA-FAN-DIE1500",41,"6.00",1,"Drink","Fanta Diet 1.5l","2022-08-10 21:02:00","145 Saint John Street",NULL,"Manchester","6040",0
+"150",42,42,"it_003","PIZZ-DIAV-R",42,"16.00",2,"Pizza","Pizza Diavola (hot) Reg","2022-08-10 22:29:00","211 Oak Street",NULL,"Manchester","6040",1
+"150",42,42,"it_005","PIZZ-PARM-R",42,"15.00",1,"Pizza","Pizza Parmigiana Reg","2022-08-10 22:29:00","211 Oak Street",NULL,"Manchester","6040",1
+"150",42,42,"it_017","SIDE-GARL-R",42,"6.00",2,"Side","Garlic Bread","2022-08-10 22:29:00","211 Oak Street",NULL,"Manchester","6040",1
+"150",42,42,"it_020","SIDE-CAES-R",42,"7.00",1,"Side","Caesar Salad","2022-08-10 22:29:00","211 Oak Street",NULL,"Manchester","6040",1
+"150",42,42,"it_025","DESS-CHOC-BROW",42,"5.00",1,"Dessert","Chocolate Brownie","2022-08-10 22:29:00","211 Oak Street",NULL,"Manchester","6040",1
+"150",42,42,"it_022","DESS-ICE-VANI",42,"6.00",1,"Dessert","Chocolate Ice cream","2022-08-10 22:29:00","211 Oak Street",NULL,"Manchester","6040",1
+"150",42,42,"it_041","BEVA-SAN-REG1500",42,"4.00",1,"Drink","San Pelligrino 1.5l","2022-08-10 22:29:00","211 Oak Street",NULL,"Manchester","6040",1
+"151",43,43,"it_025","DESS-CHOC-BROW",43,"5.00",4,"Dessert","Chocolate Brownie","2022-08-10 13:38:00","125 Summer Street",NULL,"Manchester","6040",0
+"151",43,43,"it_018","SIDE-CHIC-R",43,"7.00",2,"Side","Chicken Wings","2022-08-10 13:38:00","125 Summer Street",NULL,"Manchester","6040",0
+"151",43,43,"it_004","PIZZ-DIAV-L",43,"19.00",1,"Pizza","Pizza Diavola (hot) Large","2022-08-10 13:38:00","125 Summer Street",NULL,"Manchester","6040",0
+"151",43,43,"it_001","PIZZ-MARG-R",43,"12.00",1,"Pizza","Pizza Margherita Reg","2022-08-10 13:38:00","125 Summer Street",NULL,"Manchester","6040",0
+"151",43,43,"it_007","PIZZ-QUAT-R",43,"16.00",1,"Pizza","Pizza Quattro Formaggi Reg","2022-08-10 13:38:00","125 Summer Street",NULL,"Manchester","6040",0
+"151",43,43,"it_011","PIZZ-PEPP-R",43,"15.00",2,"Pizza","Pizza Pepperoni Reg","2022-08-10 13:38:00","125 Summer Street",NULL,"Manchester","6040",0
+"151",43,43,"it_010","PIZZ-NAPO-L",43,"18.00",3,"Pizza","Pizza Napolitana Large","2022-08-10 13:38:00","125 Summer Street",NULL,"Manchester","6040",0
+"151",43,43,"it_013","PIZZ-SEAF-R",43,"17.00",1,"Pizza","Pizza Seafood Reg","2022-08-10 13:38:00","125 Summer Street",NULL,"Manchester","6040",0
+"151",43,43,"it_019","SIDE-BREA-R",43,"5.00",2,"Side","Breadsticks","2022-08-10 13:38:00","125 Summer Street",NULL,"Manchester","6040",0
+"151",43,43,"it_028","BEVA-CC-REG33",43,"3.00",3,"Drink","Coca Cola Regular 33cl","2022-08-10 13:38:00","125 Summer Street",NULL,"Manchester","6040",0
+"151",43,43,"it_033","BEVA-7U-REG1500",43,"6.00",3,"Drink","Sprite Regular 1.5l","2022-08-10 13:38:00","125 Summer Street",NULL,"Manchester","6040",1
+"152",44,44,"it_003","PIZZ-DIAV-R",44,"16.00",1,"Pizza","Pizza Diavola (hot) Reg","2022-08-10 13:04:00","86 Highland Street",NULL,"Manchester","6040",1
+"152",44,44,"it_007","PIZZ-QUAT-R",44,"16.00",1,"Pizza","Pizza Quattro Formaggi Reg","2022-08-10 13:04:00","86 Highland Street",NULL,"Manchester","6040",1
+"152",44,44,"it_019","SIDE-BREA-R",44,"5.00",1,"Side","Breadsticks","2022-08-10 13:04:00","86 Highland Street",NULL,"Manchester","6040",1
+"152",44,44,"it_025","DESS-CHOC-BROW",44,"5.00",1,"Dessert","Chocolate Brownie","2022-08-10 13:04:00","86 Highland Street",NULL,"Manchester","6040",1
+"152",44,44,"it_032","BEVA-7U-REG33",44,"3.00",1,"Drink","Sprite Regular 33cl","2022-08-10 13:04:00","86 Highland Street",NULL,"Manchester","6040",1
+"152",44,44,"it_029","BEVA-CC-REG1500",44,"6.00",1,"Drink","Coca Cola Regular 1.5l","2022-08-10 13:04:00","86 Highland Street",NULL,"Manchester","6040",1
+"153",45,45,"it_002","PIZZ-MARG-L",45,"14.00",1,"Pizza","Pizza Margherita Large","2022-08-10 13:43:00","61 Hills Street",NULL,"Manchester","6040",1
+"153",45,45,"it_016","PIZZ-HAWA-L",45,"17.00",1,"Pizza","Pizza Hawaiian Large","2022-08-10 13:43:00","61 Hills Street",NULL,"Manchester","6040",1
+"153",45,45,"it_020","SIDE-CAES-R",45,"7.00",1,"Side","Caesar Salad","2022-08-10 13:43:00","61 Hills Street",NULL,"Manchester","6040",1
+"153",45,45,"it_021","DESS-ICE-CHOC",45,"6.00",1,"Dessert","Vanilla Ice cream","2022-08-10 13:43:00","61 Hills Street",NULL,"Manchester","6040",1
+"153",45,45,"it_029","BEVA-CC-REG1500",45,"6.00",1,"Drink","Coca Cola Regular 1.5l","2022-08-10 13:43:00","61 Hills Street",NULL,"Manchester","6040",1
+"153",45,45,"it_037","BEVA-FAN-REG1500",45,"6.00",1,"Drink","Fanta Regular 1.5l","2022-08-10 13:43:00","61 Hills Street",NULL,"Manchester","6040",1
+"154",46,46,"it_001","PIZZ-MARG-R",46,"12.00",1,"Pizza","Pizza Margherita Reg","2022-08-10 22:13:00","219 Bidwell Street",NULL,"Manchester","6040",1
+"154",46,46,"it_009","PIZZ-NAPO-R",46,"16.00",1,"Pizza","Pizza Napolitana Reg","2022-08-10 22:13:00","219 Bidwell Street",NULL,"Manchester","6040",1
+"155",47,47,"it_012","PIZZ-PEPP-L",47,"17.00",1,"Pizza","Pizza Pepperoni Large","2022-08-10 21:43:00","44 Campfield Road",NULL,"Manchester","6040",1
+"155",47,47,"it_019","SIDE-BREA-R",47,"5.00",1,"Side","Breadsticks","2022-08-10 21:43:00","44 Campfield Road",NULL,"Manchester","6040",1
+"155",47,47,"it_020","SIDE-CAES-R",47,"7.00",2,"Side","Caesar Salad","2022-08-10 21:43:00","44 Campfield Road",NULL,"Manchester","6040",1
+"155",47,47,"it_037","BEVA-FAN-REG1500",47,"6.00",1,"Drink","Fanta Regular 1.5l","2022-08-10 21:43:00","44 Campfield Road",NULL,"Manchester","6040",1
+"156",48,48,"it_008","PIZZ-QUAT-L",48,"19.00",20,"Pizza","Pizza Quattro Formaggi Large","2022-08-10 22:29:00","184 Woodland Street",NULL,"Manchester","6042",1
+"156",48,48,"it_002","PIZZ-MARG-L",48,"14.00",1,"Pizza","Pizza Margherita Large","2022-08-10 22:29:00","184 Woodland Street",NULL,"Manchester","6042",1
+"156",48,48,"it_003","PIZZ-DIAV-R",48,"16.00",8,"Pizza","Pizza Diavola (hot) Reg","2022-08-10 22:29:00","184 Woodland Street",NULL,"Manchester","6042",1
+"156",48,48,"it_007","PIZZ-QUAT-R",48,"16.00",5,"Pizza","Pizza Quattro Formaggi Reg","2022-08-10 22:29:00","184 Woodland Street",NULL,"Manchester","6042",1
+"156",48,48,"it_010","PIZZ-NAPO-L",48,"18.00",1,"Pizza","Pizza Napolitana Large","2022-08-10 22:29:00","184 Woodland Street",NULL,"Manchester","6042",1
+"156",48,48,"it_013","PIZZ-SEAF-R",48,"17.00",1,"Pizza","Pizza Seafood Reg","2022-08-10 22:29:00","184 Woodland Street",NULL,"Manchester","6042",1
+"157",49,49,"it_008","PIZZ-QUAT-L",49,"19.00",1,"Pizza","Pizza Quattro Formaggi Large","2022-08-10 22:47:00","225 Kennedy Road",NULL,"Manchester","6042",1
+"157",49,49,"it_009","PIZZ-NAPO-R",49,"16.00",1,"Pizza","Pizza Napolitana Reg","2022-08-10 22:47:00","225 Kennedy Road",NULL,"Manchester","6042",1
+"157",49,49,"it_020","SIDE-CAES-R",49,"7.00",2,"Side","Caesar Salad","2022-08-10 22:47:00","225 Kennedy Road",NULL,"Manchester","6042",1
+"157",49,49,"it_026","DESS-BANO-PIE",49,"7.00",1,"Dessert","Banoffee Pie","2022-08-10 22:47:00","225 Kennedy Road",NULL,"Manchester","6042",1
+"157",49,49,"it_024","DESS-ICE-PIST",49,"6.00",1,"Dessert","Pistachio Ice cream","2022-08-10 22:47:00","225 Kennedy Road",NULL,"Manchester","6042",1
+"157",49,49,"it_023","DESS-ICE-STRA",49,"6.00",2,"Dessert","Strawberry Ice cream","2022-08-10 22:47:00","225 Kennedy Road",NULL,"Manchester","6042",1
+"158",50,50,"it_011","PIZZ-PEPP-R",50,"15.00",1,"Pizza","Pizza Pepperoni Reg","2022-08-10 12:06:00","173 Center Street",NULL,"Manchester","6040",1
+"158",50,50,"it_016","PIZZ-HAWA-L",50,"17.00",1,"Pizza","Pizza Hawaiian Large","2022-08-10 12:06:00","173 Center Street",NULL,"Manchester","6040",1
+"158",50,50,"it_020","SIDE-CAES-R",50,"7.00",1,"Side","Caesar Salad","2022-08-10 12:06:00","173 Center Street",NULL,"Manchester","6040",1
+"158",50,50,"it_025","DESS-CHOC-BROW",50,"5.00",2,"Dessert","Chocolate Brownie","2022-08-10 12:06:00","173 Center Street",NULL,"Manchester","6040",1
+"159",51,51,"it_002","PIZZ-MARG-L",51,"14.00",1,"Pizza","Pizza Margherita Large","2022-08-10 13:40:00","150 Carter Street",NULL,"Manchester","6040",1
+"159",51,51,"it_008","PIZZ-QUAT-L",51,"19.00",1,"Pizza","Pizza Quattro Formaggi Large","2022-08-10 13:40:00","150 Carter Street",NULL,"Manchester","6040",1
+"159",51,51,"it_012","PIZZ-PEPP-L",51,"17.00",2,"Pizza","Pizza Pepperoni Large","2022-08-10 13:40:00","150 Carter Street",NULL,"Manchester","6040",1
+"159",51,51,"it_016","PIZZ-HAWA-L",51,"17.00",2,"Pizza","Pizza Hawaiian Large","2022-08-10 13:40:00","150 Carter Street",NULL,"Manchester","6040",0
+"159",51,51,"it_006","PIZZ-PARM-L",51,"18.00",1,"Pizza","Pizza Parmigiana Large","2022-08-10 13:40:00","150 Carter Street",NULL,"Manchester","6040",0
+"159",51,51,"it_017","SIDE-GARL-R",51,"6.00",2,"Side","Garlic Bread","2022-08-10 13:40:00","150 Carter Street",NULL,"Manchester","6040",0
+"159",51,51,"it_018","SIDE-CHIC-R",51,"7.00",2,"Side","Chicken Wings","2022-08-10 13:40:00","150 Carter Street",NULL,"Manchester","6040",0
+"159",51,51,"it_019","SIDE-BREA-R",51,"5.00",2,"Side","Breadsticks","2022-08-10 13:40:00","150 Carter Street",NULL,"Manchester","6040",0
+"159",51,51,"it_020","SIDE-CAES-R",51,"7.00",2,"Side","Caesar Salad","2022-08-10 13:40:00","150 Carter Street",NULL,"Manchester","6040",0
+"159",51,51,"it_022","DESS-ICE-VANI",51,"6.00",1,"Dessert","Chocolate Ice cream","2022-08-10 13:40:00","150 Carter Street",NULL,"Manchester","6040",0
+"159",51,51,"it_024","DESS-ICE-PIST",51,"6.00",1,"Dessert","Pistachio Ice cream","2022-08-10 13:40:00","150 Carter Street",NULL,"Manchester","6040",0
+"159",51,51,"it_023","DESS-ICE-STRA",51,"6.00",1,"Dessert","Strawberry Ice cream","2022-08-10 13:40:00","150 Carter Street",NULL,"Manchester","6040",0
+"159",51,51,"it_021","DESS-ICE-CHOC",51,"6.00",1,"Dessert","Vanilla Ice cream","2022-08-10 13:40:00","150 Carter Street",NULL,"Manchester","6040",0
+"159",51,51,"it_025","DESS-CHOC-BROW",51,"5.00",5,"Dessert","Chocolate Brownie","2022-08-10 13:40:00","150 Carter Street",NULL,"Manchester","6040",0
+"159",51,51,"it_026","DESS-BANO-PIE",51,"7.00",5,"Dessert","Banoffee Pie","2022-08-10 13:40:00","150 Carter Street",NULL,"Manchester","6040",1
+"159",51,51,"it_027","DESS-FRUI-SALA",51,"5.00",1,"Dessert","Fruit Salad","2022-08-10 13:40:00","150 Carter Street",NULL,"Manchester","6040",1
+"159",51,51,"it_037","BEVA-FAN-REG1500",51,"6.00",1,"Drink","Fanta Regular 1.5l","2022-08-10 13:40:00","150 Carter Street",NULL,"Manchester","6040",1
+"160",52,52,"it_004","PIZZ-DIAV-L",52,"19.00",2,"Pizza","Pizza Diavola (hot) Large","2022-08-10 20:15:00","68 Princeton Street",NULL,"Manchester","6042",1
+"160",52,52,"it_011","PIZZ-PEPP-R",52,"15.00",1,"Pizza","Pizza Pepperoni Reg","2022-08-10 20:15:00","68 Princeton Street",NULL,"Manchester","6042",1
+"160",52,52,"it_006","PIZZ-PARM-L",52,"18.00",4,"Pizza","Pizza Parmigiana Large","2022-08-10 20:15:00","68 Princeton Street",NULL,"Manchester","6042",1
+"160",52,52,"it_020","SIDE-CAES-R",52,"7.00",1,"Side","Caesar Salad","2022-08-10 20:15:00","68 Princeton Street",NULL,"Manchester","6042",1
+"160",52,52,"it_019","SIDE-BREA-R",52,"5.00",1,"Side","Breadsticks","2022-08-10 20:15:00","68 Princeton Street",NULL,"Manchester","6042",1
+"160",52,52,"it_018","SIDE-CHIC-R",52,"7.00",1,"Side","Chicken Wings","2022-08-10 20:15:00","68 Princeton Street",NULL,"Manchester","6042",1
+"160",52,52,"it_017","SIDE-GARL-R",52,"6.00",1,"Side","Garlic Bread","2022-08-10 20:15:00","68 Princeton Street",NULL,"Manchester","6042",1
+"160",52,52,"it_021","DESS-ICE-CHOC",52,"6.00",3,"Dessert","Vanilla Ice cream","2022-08-10 20:15:00","68 Princeton Street",NULL,"Manchester","6042",1
+"160",52,52,"it_025","DESS-CHOC-BROW",52,"5.00",1,"Dessert","Chocolate Brownie","2022-08-10 20:15:00","68 Princeton Street",NULL,"Manchester","6042",1
+"160",52,52,"it_041","BEVA-SAN-REG1500",52,"4.00",3,"Drink","San Pelligrino 1.5l","2022-08-10 20:15:00","68 Princeton Street",NULL,"Manchester","6042",1
+"160",52,52,"it_036","BEVA-FAN-REG33",52,"3.00",1,"Drink","Fanta Regular 33cl","2022-08-10 20:15:00","68 Princeton Street",NULL,"Manchester","6042",1
+"160",52,52,"it_033","BEVA-7U-REG1500",52,"6.00",1,"Drink","Sprite Regular 1.5l","2022-08-10 20:15:00","68 Princeton Street",NULL,"Manchester","6042",1
+"161",53,53,"it_007","PIZZ-QUAT-R",53,"16.00",10,"Pizza","Pizza Quattro Formaggi Reg","2022-08-10 21:42:00","38 Bruce Road",NULL,"Manchester","6040",1
+"162",54,54,"it_006","PIZZ-PARM-L",54,"18.00",1,"Pizza","Pizza Parmigiana Large","2022-08-10 12:51:00","208 Timrod Road",NULL,"Manchester","6040",1
+"162",54,54,"it_008","PIZZ-QUAT-L",54,"19.00",1,"Pizza","Pizza Quattro Formaggi Large","2022-08-10 12:51:00","208 Timrod Road",NULL,"Manchester","6040",1
+"162",54,54,"it_017","SIDE-GARL-R",54,"6.00",1,"Side","Garlic Bread","2022-08-10 12:51:00","208 Timrod Road",NULL,"Manchester","6040",1
+"163",55,55,"it_006","PIZZ-PARM-L",55,"18.00",1,"Pizza","Pizza Parmigiana Large","2022-08-10 13:00:00","981 Groton Long Point Road",NULL,"Groton","6340",1
+"163",55,55,"it_002","PIZZ-MARG-L",55,"14.00",1,"Pizza","Pizza Margherita Large","2022-08-10 13:00:00","981 Groton Long Point Road",NULL,"Groton","6340",1
+"163",55,55,"it_017","SIDE-GARL-R",55,"6.00",1,"Side","Garlic Bread","2022-08-10 13:00:00","981 Groton Long Point Road",NULL,"Groton","6340",1
+"164",56,56,"it_002","PIZZ-MARG-L",56,"14.00",1,"Pizza","Pizza Margherita Large","2022-08-10 21:01:00","123 Elizabeth Drive",NULL,"Manchester","6042",1
+"164",56,56,"it_004","PIZZ-DIAV-L",56,"19.00",1,"Pizza","Pizza Diavola (hot) Large","2022-08-10 21:01:00","123 Elizabeth Drive",NULL,"Manchester","6042",1
+"164",56,56,"it_012","PIZZ-PEPP-L",56,"17.00",1,"Pizza","Pizza Pepperoni Large","2022-08-10 21:01:00","123 Elizabeth Drive",NULL,"Manchester","6042",1
+"164",56,56,"it_019","SIDE-BREA-R",56,"5.00",2,"Side","Breadsticks","2022-08-10 21:01:00","123 Elizabeth Drive",NULL,"Manchester","6042",1
+"164",56,56,"it_020","SIDE-CAES-R",56,"7.00",2,"Side","Caesar Salad","2022-08-10 21:01:00","123 Elizabeth Drive",NULL,"Manchester","6042",1
+"164",56,56,"it_026","DESS-BANO-PIE",56,"7.00",1,"Dessert","Banoffee Pie","2022-08-10 21:01:00","123 Elizabeth Drive",NULL,"Manchester","6042",1
+"164",56,56,"it_029","BEVA-CC-REG1500",56,"6.00",2,"Drink","Coca Cola Regular 1.5l","2022-08-10 21:01:00","123 Elizabeth Drive",NULL,"Manchester","6042",1
+"165",57,57,"it_017","SIDE-GARL-R",57,"6.00",2,"Side","Garlic Bread","2022-08-10 19:19:00","35 Lakewood Circle South",NULL,"Manchester","6040",0
+"165",57,57,"it_004","PIZZ-DIAV-L",57,"19.00",1,"Pizza","Pizza Diavola (hot) Large","2022-08-10 19:19:00","35 Lakewood Circle South",NULL,"Manchester","6040",0
+"165",57,57,"it_002","PIZZ-MARG-L",57,"14.00",1,"Pizza","Pizza Margherita Large","2022-08-10 19:19:00","35 Lakewood Circle South",NULL,"Manchester","6040",0
+"165",57,57,"it_026","DESS-BANO-PIE",57,"7.00",1,"Dessert","Banoffee Pie","2022-08-10 19:19:00","35 Lakewood Circle South",NULL,"Manchester","6040",0
+"165",57,57,"it_031","BEVA-CC-DIE1500",57,"6.00",1,"Drink","Coca Cola Diet 1.5l","2022-08-10 19:19:00","35 Lakewood Circle South",NULL,"Manchester","6040",0
+"166",58,58,"it_007","PIZZ-QUAT-R",58,"16.00",1,"Pizza","Pizza Quattro Formaggi Reg","2022-08-10 14:22:00","91 Eldridge Street",NULL,"Manchester","6040",1
+"166",58,58,"it_019","SIDE-BREA-R",58,"5.00",1,"Side","Breadsticks","2022-08-10 14:22:00","91 Eldridge Street",NULL,"Manchester","6040",1
+"166",58,58,"it_025","DESS-CHOC-BROW",58,"5.00",1,"Dessert","Chocolate Brownie","2022-08-10 14:22:00","91 Eldridge Street",NULL,"Manchester","6040",1
+"166",58,58,"it_029","BEVA-CC-REG1500",58,"6.00",1,"Drink","Coca Cola Regular 1.5l","2022-08-10 14:22:00","91 Eldridge Street",NULL,"Manchester","6040",1
